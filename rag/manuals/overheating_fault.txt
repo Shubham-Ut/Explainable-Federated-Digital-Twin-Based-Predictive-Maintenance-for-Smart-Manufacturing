@@ -1,0 +1,1 @@
+If engine temperature or compressor temperature is high, inspect the cooling system, check lubricant level, clean air filters, and verify airflow. High temperature may indicate cooling failure, friction, blocked filters, or overload condition.

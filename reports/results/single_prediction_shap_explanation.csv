@@ -1,0 +1,11 @@
+Feature,Feature_Value,SHAP_Contribution,Absolute_Contribution
+cycle,1.0,69.24843,69.24843
+sensor_2_rolling_mean,641.89,13.671595,13.671595
+sensor_11_rolling_mean,46.93,10.330322,10.330322
+sensor_21_rolling_mean,23.4585,9.685645,9.685645
+sensor_4_rolling_mean,1391.28,8.828625,8.828625
+sensor_9_rolling_mean,9054.72,8.388873,8.388873
+sensor_15_rolling_mean,8.3905,7.6924667,7.6924667
+sensor_14_rolling_mean,8137.72,6.7930117,6.7930117
+sensor_13_rolling_mean,2388.06,5.3726587,5.3726587
+sensor_12_rolling_mean,522.33,4.4314847,4.4314847

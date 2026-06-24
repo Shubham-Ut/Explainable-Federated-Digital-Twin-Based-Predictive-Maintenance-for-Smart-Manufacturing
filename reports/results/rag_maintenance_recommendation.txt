@@ -1,0 +1,30 @@
+AI Maintenance Recommendation
+--------------------------------
+Machine Status: Healthy
+Failure Risk: Low
+Predicted RUL: 99.27 cycles
+
+Main Factors Identified:
+- cycle
+- sensor_4_rolling_mean
+- sensor_15_rolling_mean
+- sensor_14_rolling_mean
+- sensor_21_rolling_mean
+
+Recommended Maintenance Actions:
+- Continue normal operation.
+- Keep monitoring sensor trends.
+
+Knowledge Retrieved from Maintenance Documents:
+
+Source: overheating_fault.txt
+Relevance Score: 0.192
+If engine temperature or compressor temperature is high, inspect the cooling system, check lubricant level, clean air filters, and verify airflow. High temperature may indicate cooling failure, friction, blocked filters, or overload condition.
+
+Source: vibration_fault.txt
+Relevance Score: 0.0
+High vibration may indicate bearing wear, shaft misalignment, loose mounting, imbalance, or mechanical looseness. Inspect bearings, check shaft alignment, tighten mounting bolts, and monitor vibration trend.
+
+Source: pressure_drop.txt
+Relevance Score: 0.0
+Pressure drop may indicate leakage, compressor degradation, blocked pipelines, valve malfunction, or air flow restriction. Inspect compressor section, check pressure lines, verify valves, and clean blocked passages.
