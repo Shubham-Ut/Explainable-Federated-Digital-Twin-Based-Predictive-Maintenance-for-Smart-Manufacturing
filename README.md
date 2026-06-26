@@ -1,4 +1,12 @@
 # Explainable-Federated-Digital-Twin-Based-Predictive-Maintenance-for-Smart-Manufacturing
+
+output :-
+<img width="1918" height="1087" alt="image" src="https://github.com/user-attachments/assets/86fc83a8-7fed-4f2d-aa56-a95047e292f4" />
+<img width="1907" height="1067" alt="image" src="https://github.com/user-attachments/assets/4cbf2f5b-db6b-4ba5-a1e0-e5116436f167" />
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/7d6e386d-c60c-42fc-a5ed-4f89e700c61a" />
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e2874e0-ee33-46cb-9da8-01ed6aead2e3" />
+
+
 Here is a production-ready, professional README.md template written for this exact repository. You can copy and paste this directly into the project.
 
 Explainable Federated Digital Twin-Based Predictive Maintenance (EF-DT-PdM)
